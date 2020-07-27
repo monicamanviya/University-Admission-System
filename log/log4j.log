@@ -1,0 +1,180 @@
+2019-10-30 09:17:42 INFO  ApplicationServiceImpl:47 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-30 09:17:43 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:17:43 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:17:43 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:17:43 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:17:43 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:20:36 INFO  ApplicationServiceImpl:47 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-30 09:20:36 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:20:36 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:20:36 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:20:36 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:20:36 INFO  ApplicationDAOImpl:149 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-30 09:20:43 INFO  ApplicationServiceImpl:41 - Adding Application Details in ApplicationService Layer
+2019-10-30 09:20:43 INFO  ApplicationDAOImpl:101 - Applicant Details added in ApplicationDAOImpl Layer
+2019-10-30 09:20:43 INFO  ApplicantUI:144 - Adding Applicants Details in ApplicantUI
+2019-10-30 09:20:43 INFO  MacUI:69 - In Main UI
+2019-10-30 09:24:32 INFO  ApplicationServiceImpl:59 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-30 09:24:32 INFO  ApplicationDAOImpl:177 - Showing Application Status in ApplicationDAOImpl Layer
+2019-10-30 09:24:32 INFO  ApplicantUI:155 - Checking Status of Applicant in ApplicantUI
+2019-10-30 09:24:32 INFO  MacUI:69 - In Main UI
+2019-10-30 09:24:46 INFO  LoginServiceImpl:34 - Login Authentication in LoginService Layer
+2019-10-30 09:24:46 INFO  LoginDaoImpl:53 - Login Authentication method in Login DAO Impl
+2019-10-30 09:24:46 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:24:46 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:24:46 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:24:46 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:24:46 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:24:46 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:24:55 INFO  MACserviceImpl:68 - Retrieving Applicant Status in MACService Layer
+2019-10-30 09:24:55 INFO  MACdaoImpl:79 - Showing Application Status in MACdaoImpl Layer
+2019-10-30 09:25:19 INFO  MACserviceImpl:43 - Updating Applicants Details in MACService Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:164 - Updating Interview Date in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:140 - Updating Application Status in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:30 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:25:30 INFO  MacUI:86 - Updating Status of Application in MAC UI
+2019-10-30 09:25:40 INFO  MACserviceImpl:68 - Retrieving Applicant Status in MACService Layer
+2019-10-30 09:25:40 INFO  MACdaoImpl:79 - Showing Application Status in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACserviceImpl:56 - Confirming Applicants Status in MACService Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:186 - Updating Confirmation Status of Application in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:25:42 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:25:42 INFO  MacUI:126 - Confirming or Rejecting Application in MAC UI
+2019-10-30 09:26:26 INFO  LoginUI:70 - Login method in Login UI
+2019-10-30 09:26:26 INFO  MacUI:69 - In Main UI
+2019-10-30 09:30:12 INFO  LoginServiceImpl:34 - Login Authentication in LoginService Layer
+2019-10-30 09:30:13 INFO  LoginDaoImpl:53 - Login Authentication method in Login DAO Impl
+2019-10-30 09:30:13 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:13 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:13 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:13 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:13 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:13 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:30:20 INFO  MACserviceImpl:68 - Retrieving Applicant Status in MACService Layer
+2019-10-30 09:30:20 INFO  MACdaoImpl:79 - Showing Application Status in MACdaoImpl Layer
+2019-10-30 09:30:20 INFO  MacUI:86 - Updating Status of Application in MAC UI
+2019-10-30 09:30:40 INFO  MACserviceImpl:68 - Retrieving Applicant Status in MACService Layer
+2019-10-30 09:30:40 INFO  MACdaoImpl:79 - Showing Application Status in MACdaoImpl Layer
+2019-10-30 09:30:43 INFO  MACserviceImpl:43 - Updating Applicants Details in MACService Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:164 - Updating Interview Date in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:140 - Updating Application Status in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:30:50 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:30:50 INFO  MacUI:86 - Updating Status of Application in MAC UI
+2019-10-30 09:31:00 INFO  MACserviceImpl:68 - Retrieving Applicant Status in MACService Layer
+2019-10-30 09:31:00 INFO  MACdaoImpl:79 - Showing Application Status in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACserviceImpl:56 - Confirming Applicants Status in MACService Layer
+2019-10-30 09:31:01 INFO  MACdaoImpl:186 - Updating Confirmation Status of Application in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACdaoImpl:108 - Showing Application Details in MACdaoImpl Layer
+2019-10-30 09:31:01 INFO  MACserviceImpl:37 - Showing Applicants Details in MACService Layer
+2019-10-30 09:31:01 INFO  MacUI:127 - Confirming or Rejecting Application in MAC UI
+2019-10-30 09:31:09 INFO  LoginUI:70 - Login method in Login UI
+2019-10-30 09:31:09 INFO  MacUI:69 - In Main UI
+2019-10-30 09:31:16 INFO  LoginServiceImpl:34 - Login Authentication in LoginService Layer
+2019-10-30 09:31:16 INFO  LoginDaoImpl:53 - Login Authentication method in Login DAO Impl
+2019-10-30 09:31:19 INFO  AdminServiceImpl:43 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-30 09:31:19 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:31:19 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:31:19 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:31:19 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:31:19 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:31:19 INFO  AdminUI:71 - Listing Programs Offered in Admin UI
+2019-10-30 09:31:24 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:31:24 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:31:24 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:31:24 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:31:24 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:31:24 INFO  AdminServiceImpl:50 - Showing Applicants Details in AdminServiceImpl Layer
+2019-10-30 09:31:24 INFO  AdminUI:77 - Listing Applicants Details in Admin UI
+2019-10-30 09:31:59 INFO  AdminDaoImpl:202 - New Program Offered in AdminDaoImpl Layer
+2019-10-30 09:32:06 INFO  AdminServiceImpl:55 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-30 09:32:06 INFO  AdminUI:82 - Adding Programs in Admin UI
+2019-10-30 09:32:14 INFO  AdminServiceImpl:43 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-30 09:32:14 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:14 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:14 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:14 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:14 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:14 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:14 INFO  AdminUI:71 - Listing Programs Offered in Admin UI
+2019-10-30 09:32:29 INFO  AdminServiceImpl:43 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-30 09:32:29 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:29 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:29 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:29 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:29 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:29 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:32:29 INFO  AdminUI:71 - Listing Programs Offered in Admin UI
+2019-10-30 09:32:40 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:32:40 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:32:40 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:32:40 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:32:40 INFO  AdminDaoImpl:71 - Listing Applicant Details in AdminDaoImpl Layer
+2019-10-30 09:32:40 INFO  AdminServiceImpl:50 - Showing Applicants Details in AdminServiceImpl Layer
+2019-10-30 09:32:40 INFO  AdminUI:77 - Listing Applicants Details in Admin UI
+2019-10-30 09:32:47 INFO  ApplicationServiceImpl:53 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-30 09:32:47 INFO  ApplicationDAOImpl:125 - Showing Offered Programs in ApplicationDAOImpl Layer
+2019-10-30 09:33:29 INFO  AdminDaoImpl:253 - New Program Scheduled in AdminDaoImpl Layer
+2019-10-30 09:33:29 INFO  AdminServiceImpl:55 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-30 09:33:29 INFO  AdminUI:82 - Adding Programs in Admin UI
+2019-10-30 09:33:42 INFO  AdminServiceImpl:43 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-30 09:33:42 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:33:42 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:33:42 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:33:42 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:33:42 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:33:42 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:11 INFO  AdminDaoImpl:268 - Offered Program Deleted in AdminDaoImpl Layer
+2019-10-30 09:34:11 INFO  AdminServiceImpl:60 - Deleting Programs Details in AdminServiceImpl Layer
+2019-10-30 09:34:23 INFO  AdminServiceImpl:37 - Listing Scheduled Programs Details in AdminServiceImpl Layer
+2019-10-30 09:34:23 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:23 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:23 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:23 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:23 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:23 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:34:40 INFO  AdminDaoImpl:282 - Scheduled Program Deleted in AdminDaoImpl Layer
+2019-10-30 09:34:40 INFO  AdminServiceImpl:66 - Deleting Scheduled Programs Details in AdminServiceImpl Layer
+2019-10-30 09:34:40 INFO  AdminUI:109 - Deleting Programs in Admin UI
+2019-10-30 09:34:44 INFO  LoginUI:70 - Login method in Login UI
+2019-10-30 09:34:44 INFO  MacUI:69 - In Main UI
+2019-10-30 09:41:22 INFO  LoginServiceImpl:34 - Login Authentication in LoginService Layer
+2019-10-30 09:41:23 INFO  LoginDaoImpl:53 - Login Authentication method in Login DAO Impl
+2019-10-30 09:41:36 INFO  AdminServiceImpl:43 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-30 09:41:36 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:36 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:36 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:36 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:36 INFO  AdminDaoImpl:105 - Listing Offered Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:52 INFO  LoginServiceImpl:34 - Login Authentication in LoginService Layer
+2019-10-30 09:41:53 INFO  LoginDaoImpl:53 - Login Authentication method in Login DAO Impl
+2019-10-30 09:41:56 INFO  AdminServiceImpl:37 - Listing Scheduled Programs Details in AdminServiceImpl Layer
+2019-10-30 09:41:56 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:56 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:56 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:56 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:56 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
+2019-10-30 09:41:56 INFO  AdminDaoImpl:130 - Listing Scheduled Programs Details in AdminDaoImpl Layer
